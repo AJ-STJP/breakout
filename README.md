@@ -1,3 +1,3 @@
-# Project AJ
+# Stakery
 
-Project AJ
+Stakery
